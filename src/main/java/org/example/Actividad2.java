@@ -10,7 +10,7 @@ public class Actividad2 {
         System.out.println("¿A qué curso vas?:");
         String curso = entrada.nextLine();
         System.out.println("Hola " + nombre + ", bienvenid@ a " + curso);
-
+//hola
         System.out.println("Introduce un numero");
         int numero1 = entrada.nextInt();
         System.out.println("Introduce otro numero");
